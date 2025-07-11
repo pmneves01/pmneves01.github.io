@@ -73,9 +73,23 @@ Quando o `gemini-cli` estiver instalado, basta digitar `gemini` no terminal para
 
 ---
 
-### Passo 1.2
+### Passo 1.2 — Autenticação
 
-> *(Em desenvolvimento. Esta parte será continuada nos próximos dias.)*
+Você pode usar sua conta pessoal do Google para se autenticar quando solicitado.  
+Isso concederá a você até **60 solicitações por minuto** e **1.000 por dia** usando o Gemini.
+
+Ao autenticar, uma janela será aberta no seu navegador para você fazer login com sua conta Google.
+
+---
+
+### Passo 1.3 — Finalmente! Iniciar um novo Projeto
+
+Para iniciar um projeto do zero, execute os seguintes comandos:
+
+```bash
+cd new-project/
+gemini
+```
 
 ---
 
